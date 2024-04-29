@@ -1,0 +1,2 @@
+﻿CREATE USER [empoweridsqlapp] FOR EXTERNAL PROVIDER;
+
